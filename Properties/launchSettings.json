@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "FillMeIn get": {
+      "commandName": "Project",
+      "commandLineArgs": "get X:\\Projects\\Maki\\FillMeIn\\bin\\Release\\net7.0\\input.pdf X:\\Projects\\Maki\\FillMeIn\\bin\\Release\\net7.0\\output.csv"
+    },
+    "FillMeIn fill": {
+      "commandName": "Project",
+      "commandLineArgs": "fill X:\\Projects\\Maki\\FillMeIn\\bin\\Release\\net7.0\\input.pdf X:\\Projects\\Maki\\FillMeIn\\bin\\Release\\net7.0\\output.pdf X:\\Projects\\Maki\\FillMeIn\\bin\\Release\\net7.0\\input.csv"
+    }
+  }
+}
